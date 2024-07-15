@@ -20,4 +20,5 @@
 - Values: 2 to 10, Jack, Queen, King, Ace:
    + Jack, Queen, King = 10 points each
    + Ace = 1 or 11 points (whichever is beneficial without exceeding 21)
-`Enjoy the game and test your luck and strategy in Blackjack!`
+### Advices
+`Enjoy the game and test your luck and strategy in Blackjack!😊`
