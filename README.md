@@ -1,9 +1,8 @@
 # 🎮Blackjack Game
 ## ▶️How to Play
-### Game Sequence
-
-1.Create Deck: Build a standard 52-card deck.
-2.Shuffle Deck: Randomize the card order.
+### Game Sequence:
+1. Create Deck: Build a standard 52-card deck.
+2. Shuffle Deck: Randomize the card order.
 3.Place Bet: Player places a bet, ensuring it does not exceed their available chips.
 4.Deal Cards: Deal two cards each to the Dealer and the Player.
 5.Show Cards:
