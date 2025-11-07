@@ -4,7 +4,7 @@
 1. Create Deck: Build a standard 52-card deck.
 2. Shuffle Deck: Randomize the card order.
 3. Place Bet: Player places a bet, ensuring it does not exceed their available chips.
-4. Deal Cards: Deal two cards each to the Dealer and the Player.
+4. Deal Cards: Deal two cards each to the Dealer and also to the Player.
 5.  Show Cards:
     + Show one of the Dealer's cards; keep the second hidden.
     + Show both of the Player's cards.
