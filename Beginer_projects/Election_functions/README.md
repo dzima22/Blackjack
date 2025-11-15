@@ -1,6 +1,5 @@
 # :open_file_folder: Content
-- [code_for functions](https://github.com/dzima22/writing-election-functions-/blob/main/two%20functions.ipynb) – Jupyter Notebook script
-- [excel data](https://github.com/dzima22/writing-election-functions-/tree/main/datasets) – all necessary data 
+- [code_for functions](https://github.com/dzima22/writing-election-functions-/blob/main/two%20functions.ipynb) – Jupyter Notebook script 
 # 🔑 Description
 
 ## First function named `election_statistics`
